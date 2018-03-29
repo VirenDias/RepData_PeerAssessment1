@@ -1,5 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: "Viren Dias"
+date: "March 29, 2018"
 output: 
   html_document:
     keep_md: true
